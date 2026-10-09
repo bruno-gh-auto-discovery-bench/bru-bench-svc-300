@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ledger-sandbox-3",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
